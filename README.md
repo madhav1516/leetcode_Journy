@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhav1516/leetcode_Journy/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav1516/leetcode_Journy/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/madhav1516/leetcode_Journy/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav1516/leetcode_Journy/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
