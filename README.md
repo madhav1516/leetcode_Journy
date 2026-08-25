@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/madhav1516/leetcode_Journy/tree/master/0007-reverse-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/madhav1516/leetcode_Journy/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
